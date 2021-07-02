@@ -29,6 +29,7 @@ public class PoolsawatApplication implements CommandLineRunner{
 		logger.info("server.port ::=="+serverPort);
 		logger.info("api.endpoint ::=="+apiEndpointUrl);
 		logger.info("spring boot loaded");
+		logger.info("git client ::==");
 	}
 	
 }
